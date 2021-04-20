@@ -1,4 +1,4 @@
-baseURL = "http://rowemore.netlifycom"
+baseURL = "https://rowemore.netlify.com"
 title = "Rowe Morehouse · Writing"
 theme = "hugo-coder"
 languageCode = "en"
