@@ -1,10 +1,10 @@
 [build]
 publish = "public"
-command = "hugo --baseURL $URL"
+command = "hugo --gc --minify
 
 [build.environment]
 HUGO_VERSION = "0.76.5"
-HUGO_THEME = "hugo-coder"
+# HUGO_THEME = "hugo-coder"
 
 [context.deploy-preview]
 command = "hugo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
