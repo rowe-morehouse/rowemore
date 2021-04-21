@@ -1,13 +1,15 @@
 +++
-author = "Hugo Authors"
+author = "Rowe Morehouse"
 title = "More Rich Content"
-draft = "true"
-date = "2019-03-19"
+filename = "more-rich-content.md"
+draft = "false"
+date = "2020-03-24"
 # lastmod = ""
-description = "A brief description about Hugo Coder's Custom Shortcodes"
-tags = [
-    "shortcodes"
-]
+description = "A descripton of the uncertainty and risk article."
+summary = "This is the summary of the uncertainty and risk article"
+#tags = [
+#    "shortcodes"
+#]
 +++
 
 Hugo Coder provides some Custom Shortcodes.
