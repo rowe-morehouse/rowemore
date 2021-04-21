@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://rowemore.netlify.app/en/sitemap.xml</loc>
-    
-      <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://rowemore.netlify.app/posts/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://rowemore.netlify.app/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://rowemore.netlify.app/posts/product-management-uncertainty-and-risk/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://rowemore.netlify.app/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/posts/more-rich-content/</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/posts/rich-content/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rowemore.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
