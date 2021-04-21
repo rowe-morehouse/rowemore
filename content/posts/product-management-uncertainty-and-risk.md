@@ -38,7 +38,7 @@ image credit: craft.io -->
 
 <dl>
     <dt><strong>· Where</strong></dt>
-    <dd>Your product strategy. Where are you headed with the product as an organization?/dd>
+    <dd>Your product strategy. Where are you headed with the product as an organization?</dd>
     <dt><strong>· What</strong></dt>
     <dd>This is your roadmap. Which of the many ideas, proposals, and feature requests are you going to elect to build?</dd>
     <dt><strong>· When</strong></dt>
