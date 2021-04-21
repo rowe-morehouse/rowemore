@@ -1,7 +1,9 @@
 +++
 author = "Hugo Authors"
 title = "Markdown Syntax Guide"
+draft = "true"
 date = "2019-03-11"
+# lastmod = ""
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",

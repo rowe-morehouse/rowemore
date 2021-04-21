@@ -11,6 +11,9 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 author = "Rowe Morehouse"
 description = "Hang Glider · Nudist · Rollerderby Referee"

@@ -1,7 +1,9 @@
 +++
 author = "Hugo Authors"
 title = "More Rich Content"
-date = "2019-03-09"
+draft = "true"
+date = "2019-03-19"
+# lastmod = ""
 description = "A brief description about Hugo Coder's Custom Shortcodes"
 tags = [
     "shortcodes"
