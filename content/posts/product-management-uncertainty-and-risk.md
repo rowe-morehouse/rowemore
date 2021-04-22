@@ -9,6 +9,16 @@ description = "A descripton of the uncertainty and risk article."
 summary = "This is the summary of the uncertainty and risk article"
 +++
 
+
+
+<style>
+a[target="_blank"]::after {
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0 3px 0px 5px;
+}
+</style>
+
+
 <span style="font-size: 24px; font-weight: 300">🔥 Uncertainty is the day-to-day reality for product managers who build digital products. Software development by its nature is complex and dynamic — both technically and organizationally — and the product manager is right there at the center of it all. Let's look at some concepts and tactics designed to help you address ambiguity, risk, and uncertainty in your initiatives.</span>
 
 RAISE YOUR HAND IF you've been on a team that's experienced scope creep — you've had to deal new requirements coming in while your product initiative is in-flight or about to ship.
@@ -19,7 +29,7 @@ Whether the forces are internal or external, the beautiful roadmap you worked so
 
 - Product Vision, Mission, and Principles as tools to hedge against uncertainty
 - Managing expectations around timelines and delivery dates
-- Using **a risk management model** to log risks, question assumptions, and identify dependencies
+- Using **a risk management model** to Log risks, question assumptions, and identify dependencies
 - Building a culture that is flexible and accepts uncertainty
 - Using clarity and coherence in communication when certainty is not available
 
@@ -31,22 +41,7 @@ Then from a technical perspective there are always many moving-parts, risks,  an
 
 Nevertheless, as product managers, <mark class="b">people are looking to us for clarity</mark> — and they want to be able to trust us. How we communicate under ambiguous conditions directly affects our credibility as well as the perception of our job performance.
 
-### Consider "The 3 Ws" …
-
-<!-- IMAGE
-image credit: craft.io -->
-
-<dl>
-    <dt><strong>· Where</strong></dt>
-    <dd>Your product strategy. Where are you headed with the product as an organization?</dd>
-    <dt><strong>· What</strong></dt>
-    <dd>This is your roadmap. Which of the many ideas, proposals, and feature requests are you going to elect to build?</dd>
-    <dt><strong>· When</strong></dt>
-    <dd>Which features are you going to ship first, and how will you prioritize the backlog?</dd>
-</dl>
-
-
-### Addressing uncertainty in strategy
+### Addressing uncertainty in producty strategy
 
 Depending on your organization you may have a very formal strategy, you may have an ad hoc strategy, or you may have no strategy at all.
 
@@ -84,21 +79,22 @@ What happens is stakeholders start feeling a lack of visibility, and start sensi
 
 There are, however, some tactical moves you can make to mitigate this situation.
 
-### Use a Risk Management model as a tool for managing uncertainty
+### 💥 Use a Risk Management model as a tool for managing uncertainty
 
-A common light-weight Risk Management tool is <a href="https://www.projectsmart.co.uk/raid-log.php" target="new">a RAID log</a>.
+A "<a class="external" href="https://www.projectsmart.co.uk/raid-Log.php" target="_blank">RAID Log</a>" is a light-weight risk management tool. You can <a class="external" href="https://docs.google.com/spreadsheets/d/1mrcHRwuu3HHXYEM3jFCi7IuXwt-jt5mzVFToJhQAEio/edit?usp=sharing" target="_blank">make a copy of my template here</a>.
 
-A RAID log helps you identify your <u>**R**</u>isks, your <u>**A**</u>ssumptions, your <u>**I**</u>ssues, and your <u>**D**</u>ependencies. You should incorporate a RAID log into every initiative you're proposing or working on.
 
-The initiative could be a big one — or it could be something smaller, like a 3 day sprint — but just by having your RAID in writing you add some clarity and demonstrate your level-of-effort in trying to inject more certainty into the development process. Add your RAID log into whatever document you're circulating among your team, partners, and stakeholders. Make it visible, make it public.
+Your RAID Log helps you identify project <u>**R**</u>isks, <u>**A**</u>ssumptions, <u>**I**</u>ssues, and <u>**D**</u>ependencies. It's smart to incorporate a RAID Log into every initiative you're proposing or working on.
+
+It could be a large initiative — or it could be something incemental, like a 3 day sprint — but just by having a RAID in writing you add some clarity and you demonstrate your level-of-effort in trying to inject more certainty into the development process. Add your RAID Log into whatever document you're circulating among your team, partners, and stakeholders. Make it visible, make it public.
 
 When you have a list of risks in your back pocket, if you're pressed for a delivery date, you can say something like "I'm not sure how an ETA can be articulated right now when XYZ is a big unknown."
 
-Your log <strong>gives you something to point to and refer back to</strong>. It gives you a reason to offer to stakeholders regarding your hesitance to give a straightforward ETA.
+Your Log <strong>gives you something to point to and refer back to</strong>. It gives you a reason to offer to stakeholders regarding your hesitance to give a straightforward ETA.
 
 You can say "Let me go through some of these unknowns and dependencies real quick so you can see how they may impact our timeline."
 
-Your RAID log is also useful to reference during daily standups and weekly updates. It offers a rationale for your positions and also brings clarity to the overall effort.
+Your RAID Log is also useful to reference during daily standups and weekly updates. It offers a rationale for your positions and also brings clarity to the overall effort.
 
 ### Always be prepared for multiple possible outcomes!
 
@@ -110,7 +106,7 @@ If you've determined some potential undesirable outcomes, then by all means disc
 
 In <mark class="b">the case an undesirable outcome occurs</mark>, you've lessened the severity of the whiplash teams often face when they're forced to switch directions mid-stream. If they expect the possibility of changing requirements then the thrash and churn won't hurt quite as bad. 
 
-By all means, do not try to cheerlead your happy path while ignoring a negative reality. Manage expectations by truthfully communicating the potential that things may change. Point to your RAID log as evidence of possible directions. You'll benefit from removing any false sense of certainty.
+By all means, do not try to cheerlead your happy path while ignoring a negative reality. Manage expectations by truthfully communicating the potential that things may change. Point to your RAID Log as evidence of possible directions. You'll benefit from removing any false sense of certainty.
 
 Ask your team to please try to be flexible and resilient in the face of changing conditions. You can <u>build a culture of accepting uncertainty</u> if you demonstrate you have carefully thought about possible undesirable outcomes, and show that you've put measures in place to avoid them. 
 
@@ -126,7 +122,7 @@ Of course you still need to put change-control procedures in place at the beginn
 
 <blockquote>You are not sandbagging. You are not padding the schedule. You are not giving yourself some "wiggle room." You are planning for the complexity of software development. The scope, scale, and requirements of software projects change. They always do.</blockquote>
 
-## Uncertainty in Execution
+## Facing uncertainty in execution?
 
 The best thing you can do is communicate as clearly as possible. Lay the facts (datapoints) out on the table. Lay the risks and assumptions on the table. During your updates, communicate a cohesive narrative using the <a href="https://www.google.com/search?q=minto+pyramid+principle" target="new">Minto Pyramid Principal</a> formula. 
 
@@ -144,11 +140,11 @@ Try this simple formula when you need to give an update. Tell them:
 2. what you DON'T know
 3. What you WILL know
 
-Then provide a pyramid argument while pointing at your RAID log.
+Then provide a pyramid argument while pointing at your RAID Log.
 
 The lesson is to think carefully about risks, and think carefully in advance about how you talk about your progress in light of those risks. Be super proactive in your communication ESPECIALLY when there are problems or ambiguity. You are not "bothering" people by keeping them  asynchronously updated. More communication can only help, not hurt.
 
-## Product Management is tricky
+## Product Management is tricky …
 
 In actuality you are not only solving for your users' problems, you are also solving for the problems of your team and your organization … and you always have to be looking out for yourself at the same time!
 
@@ -156,12 +152,7 @@ In actuality you are not only solving for your users' problems, you are also sol
 
 - Try to get comfortable talking about uncertainty and strategizing around it.
 - When you discuss strategy and execution, have your true north and your product principles very clearly defined.
-- Spend time iterating on your risks, assumption, issues and dependencies. Your RAID log is a living document to be continuously updated. You may even want to develop encapsulated RAID logs for short-term intervals like a sprint.
-- Using your RAID log as a public reference, manage expectations with considered arguments that position near-term messiness and uncertainty in relation to a larger big picture outcome.  
+- Spend time iterating on your risks, assumption, issues and dependencies. Your RAID Log is a living document to be continuously updated. You may even want to develop encapsulated RAID logs for short-term intervals like a sprint.
+- Using your RAID Log as a public reference, manage expectations with considered arguments that position near-term messiness and uncertainty in relation to a larger big picture outcome.  
 - Make an explicit goal of growing a blameless, flexible culture of accepting uncertainty.
 
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
