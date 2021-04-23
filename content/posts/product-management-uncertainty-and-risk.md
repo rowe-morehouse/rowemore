@@ -69,7 +69,7 @@ Or perhaps <strong>you need to revisit the assumptions</strong> inherent to your
 
 ### Uncertainty in roadmapping & prioritization
 
-There's always a high level of uncertainty when you start putting together roadmaps and timelines. This is why product managers are often uncomfortable giving milestone ETAs for a project or initiative.
+There's always a high level of uncertainty when you start putting together roadmaps and timelines. This is why product managers <mark class="y">are often uncomfortable</mark> giving milestone ETAs for a project or initiative.
 
 Contexts change all the time, so PMs often <u>don't want to make a timeframe commitment</u> to an important stakeholder. It's scary to commit to uncertain timelines.
 
@@ -90,7 +90,7 @@ It could be a large initiative — or it could be something incemental, like a 3
 
 When you have a list of risks in your back pocket, if you're pressed for a delivery date, you can say something like "I'm not sure how an ETA can be articulated right now when XYZ is a big unknown."
 
-Your Log <strong>gives you something to point to and refer back to</strong>. It gives you a reason to offer to stakeholders regarding your hesitance to give a straightforward ETA.
+Your log <strong>gives you something to point to and refer back to</strong>. It gives you a reason to offer to stakeholders regarding your hesitance to give a straightforward ETA.
 
 You can say "Let me go through some of these unknowns and dependencies real quick so you can see how they may impact our timeline."
 
@@ -104,9 +104,9 @@ Use your brainstorming skills and leverage the tribal knowledge of your organiza
 
 If you've determined some potential undesirable outcomes, then by all means discuss them with your team.
 
-In <mark class="b">the case an undesirable outcome occurs</mark>, you've lessened the severity of the whiplash teams often face when they're forced to switch directions mid-stream. If they expect the possibility of changing requirements then the thrash and churn won't hurt quite as bad. 
+… <mark class="p">In the case an undesirable outcome occurs</mark>, you've lessened the severity of the whiplash teams often face when they're forced to switch directions mid-stream. If they expect the possibility of changing requirements then the thrash and churn won't hurt quite as bad. 
 
-By all means, do not try to cheerlead your happy path while ignoring a negative reality. Manage expectations by truthfully communicating the potential that things may change. Point to your RAID Log as evidence of possible directions. You'll benefit from removing any false sense of certainty.
+By all means, do not try to cheerlead your happy path while ignoring a negative reality. Manage expectations by truthfully communicating the potential that things may change. Point to your RAID Log as evidence of possible directions. <strong>You will benefit</strong> from removing any false sense of certainty.
 
 Ask your team to please try to be flexible and resilient in the face of changing conditions. You can <u>build a culture of accepting uncertainty</u> if you demonstrate you have carefully thought about possible undesirable outcomes, and show that you've put measures in place to avoid them. 
 
