@@ -75,7 +75,7 @@ Contexts change all the time, so PMs often <u>don't want to make a timeframe com
 
 <blockquote>So what happens when you're deflecting questions all the time and your lack of communication around timeframes becomes commonplace?</blockquote>
 
-What happens is stakeholders start feeling a lack of visibility, and start sensing that milestones are always being postponed. This erodes trust and impacts your credibility — and the credibility of your team. 
+What happens is stakeholders start feeling a lack of visibility, and start sensing that milestones are always being postponed. This erodes trust and impacts your credibility — and the credibility of your&nbsp;team. 
 
 There are, however, some tactical moves you can make to mitigate this situation.
 
@@ -104,7 +104,7 @@ Use your brainstorming skills and leverage the tribal knowledge of your organiza
 
 If you've determined some potential undesirable outcomes, then by all means discuss them with your team.
 
-… <mark class="p">In the case an undesirable outcome occurs</mark>, you've lessened the severity of the whiplash teams often face when they're forced to switch directions mid-stream. If they expect the possibility of changing requirements then the thrash and churn won't hurt quite as bad. 
+… In the case an undesirable outcome occurs, you've lessened the severity of the whiplash teams often face when they're forced to switch directions mid-stream. If they expect the possibility of changing requirements then the thrash and churn won't hurt  quite as bad. 
 
 By all means, do not try to cheerlead your happy path while ignoring a negative reality. Manage expectations by truthfully communicating the potential that things may change. Point to your RAID Log as evidence of possible directions. <strong>You will benefit</strong> from removing any false sense of certainty.
 
@@ -128,7 +128,7 @@ The best thing you can do is communicate as clearly as possible. Lay the facts (
 
 The coherence of your arguments has the ability to trump uncertainty. Generate a persuasive message that shows you're addressing uncertainty as best as can be expected, and connect that message to the bigger picture of where you're headed with the product — even in light of the messiness and chaos your initiative may be experiencing. 
 
-Your communications goal should be to clearly articulate what's happening — whether that be good or bad – and especially when it's bad. Don't take it personally. Discuss progress in the third person. Be objective. Be blameless, and don't blame.
+Your communications goal should be to clearly articulate what's happening — whether that be good or bad – and especially when it's bad. <mark class="r">Don't take it personally</mark>. Discuss progress in the third person. Be objective. Be blameless, and don't blame.
 
 The real problem is when PMs manufacture certainty when in reality there are known or newly identified obstacles. People will inevitably sniff this out and it will hurt your credibility. 
 
