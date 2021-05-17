@@ -1,3 +1,8 @@
+<!-- Mermaid JS support --
+Note: securityLevel: 'loose' allows representing HTML inside the diagram. -->
+<script async src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose'}});</script>
+
 <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="{{ .Site.BaseURL | relLangURL }}">

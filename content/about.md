@@ -4,7 +4,26 @@ description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
+mermaid = "true"
 +++
+
+
+<!-- MermaidJS support -->
+
+
+<script async src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose'}});</script>
+
+
+
+{{<mermaid align="">}}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{{</mermaid>}}
+
 
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
